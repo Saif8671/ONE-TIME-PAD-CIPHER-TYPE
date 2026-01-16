@@ -1,4 +1,4 @@
-# Numeric Key One-Time Pad Cipher (Encode & Decode)
+ # Numeric Key One-Time Pad Cipher (Encode & Decode)
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -44,13 +44,9 @@ otp_cipher/
 
 ## How to Run
 Prerequisites
-
 Python 3.x installed
-
 Command Prompt or Terminal access
-
 Execution
-
 Navigate to the project directory and run:
 ```
 python otp_cipher.py
