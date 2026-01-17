@@ -7,7 +7,7 @@ A simple Python implementation of a **One-Time Pad (OTP)** style cipher using nu
 
 ## 📌 Overview
 This script allows users to encrypt and decrypt alphabetic messages using a series of numbers as the key. Unlike a Caesar cipher which uses a single shift value, this OTP-style cipher uses a unique shift for every single letter.
-## Deploy link https://deploy-link.netlify.app/
+## Deploy link: https://deploy-link.netlify.app/
 ## ✨ Features
 * **Bidirectional:** Encode (encrypt) and decode (decrypt) messages.
 * **Numeric Key Input:** Supports comma-separated integer keys.
