@@ -56,3 +56,4 @@ else:
         print("Decrypted Text:", decode(text, key))
     else:
         print("Invalid choice")
+
